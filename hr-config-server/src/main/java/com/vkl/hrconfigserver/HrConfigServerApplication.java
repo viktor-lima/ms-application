@@ -14,6 +14,7 @@ public class HrConfigServerApplication implements CommandLineRunner{
 		SpringApplication.run(HrConfigServerApplication.class, args);
 	}
 
+	
 	@Override
 	public void run(String... args) throws Exception {	
 	}
